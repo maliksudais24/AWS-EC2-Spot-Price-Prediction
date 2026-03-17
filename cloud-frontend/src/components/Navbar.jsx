@@ -52,10 +52,10 @@ const Navbar = () => {
         <div className="md:hidden">
           <button
             onClick={toggleMobileMenu}
-            className="p-2 rounded-full hover:bg-[#1a1a1a] transition-colors"
+            className="p-2 rounded-full hover:bg-[#1a1a1a] transition-colors text-white"
             aria-label="Toggle menu"
           >
-            {mobileOpen ? <X size={24} /> : <Menu size={24} />}
+            {mobileOpen ? <X size={24} className="text-white" /> : <Menu size={24} className="text-white" />}
           </button>
         </div>
       </div>
