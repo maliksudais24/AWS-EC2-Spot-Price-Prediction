@@ -303,5 +303,5 @@ Inspiration from “Using ML to Save on Cloud Costs” by various FinOps practit
 ##Contact:
 
 Malik Sudais  – maliksudais30@gmail.com
-Project Link: https://github.com/yourusername/aws-spot-price-optimizer
+Project Link: (https://github.com/maliksudais24/AWS-EC2-Spot-Price-Prediction.git)
    
